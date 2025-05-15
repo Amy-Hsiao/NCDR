@@ -6,4 +6,3 @@ fronted/.vscode/
 LLM/__pycache__/
 LLM/.venv/
 LLM/modules/__pycache__/
-LLM/Llama3-TAIDE-LX-8B-Chat-Alpha1/*safetensors
