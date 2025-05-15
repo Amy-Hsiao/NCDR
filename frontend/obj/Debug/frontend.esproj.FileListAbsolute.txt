@@ -1,0 +1,2 @@
+C:\ncdr\frontend\obj\Debug\frontend.esproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ncdr_integration\frontend\obj\Debug\frontend.esproj.CoreCompileInputs.cache

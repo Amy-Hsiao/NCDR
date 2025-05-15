@@ -1,0 +1,8 @@
+env11/
+__pycache__/
+.vs/
+fronted/.vs/
+fronted/.vscode/
+LLM/__pycache__/
+LLM/.venv/
+LLM/modules/__pycache__/
